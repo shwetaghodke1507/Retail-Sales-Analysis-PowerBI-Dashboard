@@ -3,7 +3,7 @@
 
 A comprehensive Retail Sales Dashboard built in Power BI to analyze sales, profit, and customer trends for 2025.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]("C:\Users\shwet\Pictures\New folder\retail sales.mp4.png")
 
 ### 📊 Key Business Insights
 - **Total Sales:** 11.31M | **Total Profit:** 1.30M (Margin: 0.11)
