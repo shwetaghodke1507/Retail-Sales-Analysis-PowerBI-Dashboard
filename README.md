@@ -29,3 +29,5 @@ Power BI Desktop, Power Query, DAX, Data Visualization
 BCA Graduate (8.21 CGPA) | Skills: Python, SQL, Excel, Power BI, Tableau | Open to Data Analyst roles
 
 #PowerBI #DataAnalytics #RetailAnalytics
+
+**Author:** Shweta Sachin Ghodke
