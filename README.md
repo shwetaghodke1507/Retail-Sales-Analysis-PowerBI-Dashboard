@@ -3,7 +3,7 @@
 
 A comprehensive Retail Sales Dashboard built in Power BI to analyze sales, profit, and customer trends for 2025.
 
-![Dashboard Preview](<img width="1287" height="721" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/6926d1ce-09e3-4720-abae-8e38eeeec6a5" />
+![Dashboard Preview](<img width="1287" height="721" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/6926d1ce-09e3-4720-abae-8e38eeeec6a5"/>
 )
 
 ### 📊 Key Business Insights
